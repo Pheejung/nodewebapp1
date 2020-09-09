@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/fb464555-b5fb-40b0-b8a7-3a46954a81e1/resourceGroups/phj-nodeapp-rg/providers/Microsoft.Web/sites/phjnodeapp1",
+    "appService.deploySubpath": "."
+}
